@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Shiva",
+    "artist": "Thai Hoang",
+    "url": "https://files.catbox.moe/99i8nm.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Another Song",
+    "artist": "Singer X",
+    "url": "https://example.com/music/another-song.mp3"
+  }
+]
